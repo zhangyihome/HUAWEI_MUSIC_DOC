@@ -1,0 +1,43 @@
+# 目录
+- 用户
+    - [登陆](userInfo/login.md)
+    - [注册](userInfo/register.md)
+    - [忘记密码](userInfo/resetPassword.md)
+    - [重置密码](userManager/updatePassword.md)
+   
+- 个人
+    - [添加个人信息](personManager/addPerson.md)
+    - [预览个人信息](personManager/getPersonInfo.md)
+    - [修改个人信息](personManager/updatePerson.md)
+    - [上传用户证件照](personManager/personCertUpload.md)
+- 机构
+   - [添加机构信息](companyManager/addCompany.md)
+   - [预览机构信息](companyManager/getCompany.md)
+   - [修改机构信息](companyManager/updateCompany.md)
+   - [上传机构营业执照](companyManager/companyCertUpload.md)
+    
+- 验证码
+    - [请求验证码](captcha/captcha.md)
+- 专辑
+    - [添加专辑](album/albumAdd.md)
+	- [上传专辑封面](album/albumCoverUpload.md)
+	- [上传专辑各种协议](album/albumAgreementUpload.md)
+	- [删除专辑](album/albumDelete.md)
+	- [专辑详情](album/albumDetail.md)
+	- [专辑列表](album/albumList.md)
+	- [专辑名称列表](album/albumNameList.md)
+	- [更新专辑](album/albumUpdate.md)
+	- [更新专辑状态](album/albumUpdateStatus.md)
+	- [不同审核状态专辑数](album/albumReviewCount.md)
+- 节目
+    - [添加单个节目](program/addProgram.md)
+	- [上传音频文件](program/audioFile.md)
+	- [上传多个节目](program/batchProgram.md)
+	- [删除节目](program/deleteProgram.md)
+	- [节目详情](program/programdetile.md)
+	- [获取同一专辑下节目列表](program/programList.md)
+	- [更新节目](program/updateProgram.md)
+	- [不同审核状态节目数](program/programReviewCount.md)
+- 标签
+    - [标签列表](tag/tagList.md)
+    
